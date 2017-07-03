@@ -96,7 +96,7 @@
           "_anchor": "menu-11",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">حياة مزارع</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">الحيونات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">النباتات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">ورشة العمل</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page.html\" aria-expanded=\"true\">وسائل التواصل</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">انستقرام</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">يوتيوب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">سناب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">قوقل بلس</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
         },
         {
           "_tags": [
@@ -399,7 +399,7 @@
           "_anchor": "menu-14",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -431,7 +431,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">حياة مزارع</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">الحيونات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">النباتات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">ورشة العمل</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page.html\" aria-expanded=\"true\">وسائل التواصل</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">انستقرام</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">يوتيوب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">سناب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">قوقل بلس</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
         },
         {
           "_tags": [
@@ -696,7 +696,7 @@
           "_anchor": "menu-1f",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -728,7 +728,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">حياة مزارع</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">الحيونات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">النباتات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">ورشة العمل</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page.html\" aria-expanded=\"true\">وسائل التواصل</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">انستقرام</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">يوتيوب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">سناب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">قوقل بلس</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
         },
         {
           "_tags": [
@@ -1260,10 +1260,10 @@
               "font-family": "'Oswald', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1303,7 +1303,7 @@
           "_anchor": "menu-y",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.6",
             "fontName": {
               "name": "Oswald",
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
@@ -1339,7 +1339,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"page.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">حياة مزارع</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">الحيونات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">النباتات</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">ورشة العمل</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page.html\" aria-expanded=\"true\">وسائل التواصل</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">انستقرام</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">يوتيوب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">سناب</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">قوقل بلس</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">القوائم</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page.html\">الرئيسية</a></li>"
         }
       ]
     }

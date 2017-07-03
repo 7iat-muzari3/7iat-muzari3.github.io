@@ -813,11 +813,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-y .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #menu-y .dropdown-item,
 #menu-y .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #menu-y .link:hover,
 #menu-y .dropdown-item:hover,
